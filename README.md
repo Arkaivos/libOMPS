@@ -1,6 +1,6 @@
 # libOMPS (Orbital Marker Positioning System)
 
-This library allows you to transform a set of distances between a given location and a set of fixed anchors to latitude, longitude and height coordinates.
+This library provides basic orientation functionality in Star Citizen moons and planets. It allows you to transform a set of distances between a given location and a set of fixed anchors to latitude, longitude and height coordinates.
 
 - libOMPS.py: Python library containing the OMPS Class.
 - test.py: Python example program that makes use of the library to calculate the coordinates of the lost Javelin.
